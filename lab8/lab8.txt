@@ -1,0 +1,11 @@
+SELECT @@version
+
+' UNION SELECT @@version--
+
+
+' ORDER BY 1#
+' ORDER BY 2#
+
+
+
+' UNION SELECT @@version, NULL#
