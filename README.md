@@ -13,3 +13,10 @@
 <a href="https://tiktok.com/@efegorkemumit" rel="nofollow">
 <img src="https://camo.githubusercontent.com/aa71d874b609e6241ff92dfc8c5c2c59670644ef52e2254b0c3f81f473aa1527/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54696b546f6b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d74696b746f6b266c6f676f436f6c6f723d7768697465207374796c653d" data-canonical-src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white style=" style="max-width: 100%;">
 </a>
+
+<a href="https://www.udemy.com/course/etik-hacker-sql-injection-sfrdan-master-seviyesine/" rel="nofollow">
+<img src="https://efegorkemumit.github.io/assets/img/course/sql.jpg" data-canonical-src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white style=" style="max-width: 100%;">
+</a>
+
+
+
