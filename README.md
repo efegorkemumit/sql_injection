@@ -15,12 +15,7 @@
 </a>
 
 
---------------->>>    Bu GitHub deposu, Etik Hacker: SQL Injection Sıfırdan Master Seviyesine
-için özel olarak hazırlanmıştır. İndirimli kuponlar ve kurs detayları için linki ziyaret edebilirsiniz. Ayrıca, yapılan proje önizlemelerini alt kısımda bulabilirsiniz.
 
-
---------------->>>   This GitHub repository has been specifically created for the Etik Hacker: SQL Injection Sıfırdan Master Seviyesine
- For discounted coupons and detailed information about the course, please check out the . Additionally, you can find previews of the projects completed within this repository below.
 
 
 
@@ -30,4 +25,10 @@ için özel olarak hazırlanmıştır. İndirimli kuponlar ve kurs detayları i�
 </a>
 
 
+<div>Bu GitHub deposu, Etik Hacker: SQL Injection Sıfırdan Master Seviyesine
+için özel olarak hazırlanmıştır. İndirimli kuponlar ve kurs detayları için linki ziyaret edebilirsiniz. Ayrıca, yapılan proje önizlemelerini alt kısımda bulabilirsiniz.</div> 
 
+
+<div>This GitHub repository has been specifically created for the Etik Hacker: SQL Injection Sıfırdan Master Seviyesine
+ For discounted coupons and detailed information about the course, please check out the . Additionally, you can find previews of the projects completed within this repository below.</div> 
+ 
