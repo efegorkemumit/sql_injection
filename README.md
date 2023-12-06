@@ -24,6 +24,12 @@
 <img src="https://efegorkemumit.github.io/assets/img/course/sql.jpg" data-canonical-src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white style=" style="max-width: 100%;">
 </a>
 
+# Kurs ve Proje Önizlemesi için
+Link : https://www.udemy.com/course/etik-hacker-sql-injection-sfrdan-master-seviyesine/
+
+# İndirimli kupon linklerim için 
+
+Link : https://efegorkemumit.com/indirimli-udemy-kurs-kuponlarim/
 
 # Udemy Course Project Repository
 
@@ -36,34 +42,9 @@ For in-depth details, lectures, and enrollment in the course, visit [Udemy Cours
 ## Project Previews
 
 Below, you'll find a brief preview of the projects included in this repository:
+https://www.udemy.com/course/etik-hacker-sql-injection-sfrdan-master-seviyesine/
 
-### Project 1: [Project Name 1]
-
-[Short description and link to Project 1]
-
-### Project 2: [Project Name 2]
-
-[Short description and link to Project 2]
-
-### Project 3: [Project Name 3]
-
-[Short description and link to Project 3]
-
-Feel free to explore each project folder for detailed documentation and source code.
-
-## Discounted Coupons
-
-For exclusive discounts on the course, check out [Discounted Coupons Link](#).
 
 Happy learning!
 
 
-
-
-<div>Bu GitHub deposu, Etik Hacker: SQL Injection Sıfırdan Master Seviyesine
-için özel olarak hazırlanmıştır. İndirimli kuponlar ve kurs detayları için linki ziyaret edebilirsiniz. Ayrıca, yapılan proje önizlemelerini alt kısımda bulabilirsiniz.</div> 
-
-
-<div>This GitHub repository has been specifically created for the Etik Hacker: SQL Injection Sıfırdan Master Seviyesine
- For discounted coupons and detailed information about the course, please check out the . Additionally, you can find previews of the projects completed within this repository below.</div> 
- 
