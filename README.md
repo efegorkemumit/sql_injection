@@ -25,6 +25,41 @@
 </a>
 
 
+# Udemy Course Project Repository
+
+Welcome to the GitHub repository for the projects covered in the "Title of Your Udemy Course" on Udemy.
+
+## Udemy Course Details
+
+For in-depth details, lectures, and enrollment in the course, visit [Udemy Course Link](#).
+
+## Project Previews
+
+Below, you'll find a brief preview of the projects included in this repository:
+
+### Project 1: [Project Name 1]
+
+[Short description and link to Project 1]
+
+### Project 2: [Project Name 2]
+
+[Short description and link to Project 2]
+
+### Project 3: [Project Name 3]
+
+[Short description and link to Project 3]
+
+Feel free to explore each project folder for detailed documentation and source code.
+
+## Discounted Coupons
+
+For exclusive discounts on the course, check out [Discounted Coupons Link](#).
+
+Happy learning!
+
+
+
+
 <div>Bu GitHub deposu, Etik Hacker: SQL Injection Sıfırdan Master Seviyesine
 için özel olarak hazırlanmıştır. İndirimli kuponlar ve kurs detayları için linki ziyaret edebilirsiniz. Ayrıca, yapılan proje önizlemelerini alt kısımda bulabilirsiniz.</div> 
 
