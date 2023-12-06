@@ -13,36 +13,3 @@
 <a href="https://tiktok.com/@efegorkemumit" rel="nofollow">
 <img src="https://camo.githubusercontent.com/aa71d874b609e6241ff92dfc8c5c2c59670644ef52e2254b0c3f81f473aa1527/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54696b546f6b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d74696b746f6b266c6f676f436f6c6f723d7768697465207374796c653d" data-canonical-src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white style=" style="max-width: 100%;">
 </a>
-
-
-<div class="group relative">
-                                    <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-50">
-                                      <img src="./assets/img/course/sql.jpg" alt="Front of men's Basic Tee in black." class="h-auto w-full object-cover object-center ">
-                                    </div>
-                                    <div class="mt-4 flex justify-between">
-                                      <div>
-                                        <h3 class="text-sm text-gray-700">
-                                          <a target="_blank" href="https://www.udemy.com/course/etik-hacker-sql-injection-sfrdan-master-seviyesine/">
-                                            <span aria-hidden="true" class="absolute inset-0"></span>
-                                            Etik Hacker: SQL Injection Sıfırdan Master Seviyesine
-                                        </a>
-                                        </h3>
-                                        <p class="mt-2 text-sm text-gray-500">
-                                          <button class="px-2 py-1 mb-2 text-white text-xs bg-slate-700 rounded-xl">Python Tools </button>
-                                          <button class="px-2 py-1 mb-2 text-white text-xs bg-slate-700 rounded-xl">Sql Injections </button>
-
-                                          <button class="px-2 py-1 mb-2 text-white text-xs bg-slate-700 rounded-xl">Linux</button>
-                                          <button class="px-2 py-1 mb-2 text-white text-xs bg-slate-700 rounded-xl">Web Pentesting</button>
-                                          <button class="px-2 py-1 mb-2 text-white text-xs bg-slate-700 rounded-xl">Ethical Hacking</button>
-                                          <button class="px-2 py-1 mb-2 text-white text-xs bg-slate-700 rounded-xl">Password Attacks                                        </button>
-                                       
-
-
-
-
-
-  
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
