@@ -37,7 +37,7 @@ Welcome to the GitHub repository for the projects covered in the "Title of Your 
 
 ## Udemy Course Details
 
-For in-depth details, lectures, and enrollment in the course, visit [Udemy Course Link](#).
+For in-depth details, lectures, and enrollment in the course, visit 
 
 ## Project Previews
 
