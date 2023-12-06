@@ -23,7 +23,6 @@
 <a href="https://www.udemy.com/course/etik-hacker-sql-injection-sfrdan-master-seviyesine/" rel="nofollow">
 <img src="https://efegorkemumit.github.io/assets/img/course/sql.jpg" data-canonical-src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white style=" style="max-width: 100%;">
 </a>
-
 # Kurs ve Proje Önizlemesi için
 Link : https://www.udemy.com/course/etik-hacker-sql-injection-sfrdan-master-seviyesine/
 
@@ -33,11 +32,11 @@ Link : https://efegorkemumit.com/indirimli-udemy-kurs-kuponlarim/
 
 # Udemy Course Project Repository
 
-Welcome to the GitHub repository for the projects covered in the "Title of Your Udemy Course" on Udemy.
+Welcome to the GitHub repository for the projects covered in the  on Udemy.
 
 ## Udemy Course Details
 
-For in-depth details, lectures, and enrollment in the course, visit 
+For in-depth details, lectures, and enrollment in the course, visit [Udemy Course Link](#).
 
 ## Project Previews
 
@@ -46,5 +45,7 @@ https://www.udemy.com/course/etik-hacker-sql-injection-sfrdan-master-seviyesine/
 
 
 Happy learning!
+
+
 
 
